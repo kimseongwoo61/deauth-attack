@@ -9,7 +9,7 @@
     입력되는 무선랜 인터페이스가 반드시 Monitor mode여야 정상적으로 Sniffing이 가능합니다.
     
     ```python
-    sudo python deauth-attack <interface> <ap mac> [<station mac> [-auth]]
+    sudo python deauth-attack.py <interface> <ap mac> [<station mac> [-auth]]
     ```
     
 
